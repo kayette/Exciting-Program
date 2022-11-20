@@ -26,7 +26,7 @@ while True:
 			else:
 				window = Tk()
 				window.title("Primo")
-				window.geometry("1000x600")
+				window.geometry("1000x800")
 				try:
 					app_id = "6LQW8W-82QHWQL39G"
 					client = wolframalpha.Client(app_id)
